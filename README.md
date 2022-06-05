@@ -25,7 +25,7 @@
     ]
    <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
 
-![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=tokyonight)
+![Aaron github stats](https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=tokyonight)
 
 <h4>:eyes:&nbsp;&nbsp;&nbsp;Visitor Count</h4>
 
