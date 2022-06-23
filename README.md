@@ -3,24 +3,25 @@
         {       //Me//
             "name": "Aaron Rincon", 🙋🏻‍♂️
             "old":  "20 years old", 👴🏻
-            "study": "Buap",        👨🏻‍💻 
+            "study": "Buap"        👨🏻‍💻 
         }
         {       //Frameworks//
             "react":    true, ⚛️
-            "hardhat":  true, 👷‍♀️
+            "hardhat":  true 👷‍♀️
         }
         {       //Language//
             "javaScript":   true, 
             "solidity": true, 
-            "python": true, 
+            "python": true
         }
         {       //Next objectives//
             "stackMern": true,
             "stackWeb3": true,
-            "AzureAZ00": true,
+            "AzureAZ900": true
         }
         {       //My projects
-            "collectionNft": [2]
+            "collectionNft": [2],
+            "Bot of Discord": true
         }
     ]
    <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
