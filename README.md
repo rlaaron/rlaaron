@@ -17,7 +17,12 @@
         {       //Next objectives//
             "stackMern": true,
             "stackWeb3": true,
-            "AzureAZ900": true
+            "Azure SC-900": true
+            "Azure AZ-500": true
+        }
+        {
+            //CERTIFICATIONS
+            "MICROSOFT AZURE FUNDAMENTALS AZ-900"
         }
         {       //My projects
             "collectionNft": [2],
