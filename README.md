@@ -7,6 +7,8 @@
         }
         {       //Frameworks//
             "react":    true, ⚛️
+            "node.js":  true,
+            "boostrapV5:true, 
             "hardhat":  true 👷‍♀️
         }
         {       //Language//
@@ -26,7 +28,8 @@
         }
         {       //My projects
             "collectionNft": [2],
-            "Bot of Discord": true
+            "Bot of Discord": true,
+            "web2 automation" true
         }
     ]
    <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
