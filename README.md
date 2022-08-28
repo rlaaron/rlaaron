@@ -29,7 +29,8 @@
         {       //My projects
             "collectionNft": [2],
             "Bot of Discord": true,
-            "web2 automation" true
+            "web2 automation" true,
+            "Mirror-bot Discord": true
         }
     ]
    <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
