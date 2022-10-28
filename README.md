@@ -16,16 +16,23 @@
             "solidity": true, 
             "python": true
         }
+        {
+                //Hackathons
+            "BBVA HACKATHON WINNER IN THE NFT CHALLENGE"
+        }
+        {
+                 //CERTIFICATIONS
+            "MICROSOFT AZURE FUNDAMENTALS AZ-900"
+            "INTRODUCTION TO CYBERSECURITY"
+            
+        }
         {       //Next objectives//
             "stackMern": true,
             "stackWeb3": true,
             "Azure SC-900": true
             "Azure AZ-500": true
         }
-        {
-            //CERTIFICATIONS
-            "MICROSOFT AZURE FUNDAMENTALS AZ-900"
-        }
+
         {       //My projects
             "collectionNft": [2],
             "Bot of Discord": true,
