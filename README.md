@@ -12,9 +12,11 @@
   <br>
   🔬 I'm currently studying for a  degree in Benemerita Universidad Autonoma de Puebla
   <br>
-  🎉 I won the BBVA hackathon in the nft challenge, check repo <a href="https://github.com/rlaaron/ACENDANT-BBVA" title="repo">Here</a>
+  🎉 I won the BBVA hackathon 2022 in the nft challenge, check repo <a href="https://github.com/rlaaron/ACENDANT-BBVA" title="repo">Here</a>
   <br>
-  💻 I love writing code and learn anythings about it
+  👷 I know how to build websites, develop discord bots, and do a little bit of web scraping
+   <br>
+  💻  I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning about web3 
 </p>
