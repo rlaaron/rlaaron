@@ -54,8 +54,8 @@
 <h2 align="center">📈   Stats  📈</h2>
 <br>
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=tokyonight" width = "500">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaron&hide=jupyter%20notebook&theme=tokyonight&layout=compact" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "500">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaron&hide=jupyter%20notebook&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite&layout=compact" width = "420">
     <br>
 </p>
     
@@ -63,10 +63,11 @@
 <h2 align="center">💪   Projects  💪</h2>
 <br>
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=ACENDANT-BBVA&theme=tokyonight" width = "420">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=CryptoBlueberry&theme=tokyonight" width = "420">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=discord-mirror&theme=tokyonight" width = "420">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=info-bot&theme=tokyonight" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=ACENDANT-BBVA&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=CryptoBlueberry&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
+    <br>
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=discord-mirror&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=info-bot&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "470">
     <!-- ![Aaron github stats](https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=shades-of-purple) -->
 </p>
 
