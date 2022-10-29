@@ -1,50 +1,73 @@
-## Who is aaron?
-    [
-        {       //Me//
-            "name": "Aaron Rincon", 🙋🏻‍♂️
-            "old":  "20 years old", 👴🏻
-            "study": "Buap"        👨🏻‍💻 
-        }
-        {       //Frameworks//
-            "react":    true, ⚛️
-            "node.js":  true,
-            "boostrapV5:true, 
-            "hardhat":  true 👷‍♀️
-        }
-        {       //Language//
-            "javaScript":   true, 
-            "solidity": true, 
-            "python": true
-        }
-        {
-                //Hackathons
-            "BBVA HACKATHON WINNER IN THE NFT CHALLENGE"
-        }
-        {
-                 //CERTIFICATIONS
-            "MICROSOFT AZURE FUNDAMENTALS AZ-900"
-            "INTRODUCTION TO CYBERSECURITY"
-            
-        }
-        {       //Next objectives//
-            "stackMern": true,
-            "stackWeb3": true,
-            "Azure SC-900": true
-            "Azure AZ-500": true
-        }
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rlaaron.rlaaron">
 
-        {       //My projects
-            "collectionNft": [2],
-            "Bot of Discord": true,
-            "web2 automation" true,
-            "Mirror-bot Discord": true
-        }
-    ]
-   <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aaron....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-![Aaron github stats](https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=tokyonight)
+<p align="center">
+  Hi, my name is aaron, Software Engineer Student, I'm 20 years old 
+  <br>
+  <br>
+  🔬 I'm currently studying for a  degree in Benemerita Universidad Autonoma de Puebla
+  <br>
+  🎉 I won the BBVA hackathon in the nft challenge, check repo <a href="https://github.com/rlaaron/ACENDANT-BBVA" title="repo">Here</a>
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning about web3 
+</p>
 
-<h4>:eyes:&nbsp;&nbsp;&nbsp;Visitor Count</h4>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="100">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="110">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=javaScript&text=true&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="130">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=microsoftAzure&text=true&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="155">
+    <br>
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=ethereum&text=false&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="58">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="58">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="58">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=git&text=false&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="58">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=github&text=false&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="58">
+    <img src = "https://readme-components.vercel.app/api?component=logo&logo=VisualStudioCode&text=false&textfill=000000&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="58">
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/rlaaron/count.svg)
-<hr />
+<hr>
+<h2 align="center">🏅   Certifications  🏅</h2>
+<br>
+<p align="center">
+    <a href = "https://www.credly.com/badges/6e7dd35c-c8c4-49fc-826d-621284ccbf3f/public_url" title = "cybersecurity">
+        <img src = "./assets/cybersecurity(1).png" width= "130">
+        <tb>
+    </a>
+    <a href = "https://www.credly.com/badges/c034f9e8-a42d-4f7a-a0d2-8bf44005ea85/public_url">
+        <img src = "./assets/fundamentals(1).png" width= "130" >
+        <!-- align="right" -->
+    </a>
+</p>
+
+<hr>
+<h2 align="center">📈   Stats  📈</h2>
+<br>
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=tokyonight" width = "500">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaron&hide=jupyter%20notebook&theme=tokyonight&layout=compact" width = "420">
+    <br>
+</p>
+    
+<hr>
+<h2 align="center">💪   Projects  💪</h2>
+<br>
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=ACENDANT-BBVA&theme=tokyonight" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=CryptoBlueberry&theme=tokyonight" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=discord-mirror&theme=tokyonight" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=info-bot&theme=tokyonight" width = "420">
+    <!-- ![Aaron github stats](https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=shades-of-purple) -->
+</p>
+
+
