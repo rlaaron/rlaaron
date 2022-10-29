@@ -67,7 +67,7 @@
     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=CryptoBlueberry&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
     <br>
     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=discord-mirror&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=info-bot&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "470">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=rlaaron&repo=info-bot&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
     <!-- ![Aaron github stats](https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&theme=shades-of-purple) -->
 </p>
 
