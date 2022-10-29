@@ -54,8 +54,8 @@
 <h2 align="center">📈   Stats  📈</h2>
 <br>
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "500">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaron&hide=jupyter%20notebook&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite&layout=compact" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api?username=rlaaron&show_icons=true&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite" width = "420">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaron&hide=jupyter%20notebook&bg_color=0,9ac5fc,a3c5fc,b9c4fc,c0c4fc,c1c4fc&theme=graywhite&layout=compact" width = "350">
     <br>
 </p>
     
