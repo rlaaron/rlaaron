@@ -10,8 +10,6 @@
   Hi, my name is aaron, Software Engineer Student, I'm 20 years old 
   <br>
   <br>
-  🔬 I'm currently studying for a  degree in Benemerita Universidad Autonoma de Puebla
-  <br>
   🎉 I won the BBVA hackathon 2022 in the nft challenge, check repo <a href="https://github.com/rlaaron/ACENDANT-BBVA" title="repo">Here</a>
   <br>
   👷 I know how to build websites, develop discord bots, and do a little bit of web scraping
